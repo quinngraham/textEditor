@@ -3,6 +3,7 @@ package org.textEditor;
 
 public class Main{
     public static void main(String[] args){
-        System.out.println("Hello world!");
+        TextEdit textEdit = new TextEdit();
+        //textEdit.run();
     }
 }
